@@ -3,7 +3,8 @@
   <div class="quem-somos-content">
     <div class="quem-somos-dados">
       <div class="img">
-        <P>Somos simplesmente a melhor banca de doces artesanais que voçe vai conher 
+        <P>Somos simplesmente a melhor banca de doces artesanais 
+          que voçe vai conher 
           estamos presentes em todos os shopings de Londrina PR.<br>
           VENHA TER OTIMAS EXPERIENCIAS CONOSCO.</P>
       </div>
