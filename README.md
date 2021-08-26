@@ -10,4 +10,4 @@ sou de Londrina Paraná
 
 Estudo Sistemas para Internet na Faculdade Unicesumar.
 
-Projeto criado em PHP para o MAPA da Unicesumar | RA: 20028909-5.
+Projeto criado em PHP para o MAPA da materia de back end 1  da Unicesumar | RA: 20028909-5.
