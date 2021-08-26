@@ -8,7 +8,8 @@
         <p>email@example.com</p><br>
         <p>+55 (43) 99958-9009</p>
         <h3 class="contato-titulo">REDES SOCIAIS</h3><br>
-        <h2 class="contato-titulo2" >Siga nossas redes para conhecer nossas delicias. <br>E fique por dentro de futuras promocoes.</h2><br>
+        <h2 class="contato-titulo2" >Siga nossas redes para conhecer
+           nossas delicias. <br>E fique por dentro de futuras promocoes.</h2><br>
         <div class="contato-redes">
           <div class="img"><img src="images/facebook.svg" alt=""></div>
           <div class="img"><img src="images/instagram.svg" alt=""></div>
